@@ -9,6 +9,11 @@
             "UnauthRoleName": "vue-amplify-dev-20190522132019-unauthRole",
             "StackName": "vue-amplify-dev-20190522132019",
             "StackId": "arn:aws:cloudformation:us-east-1:741504882728:stack/vue-amplify-dev-20190522132019/41bbfbe0-7cbe-11e9-9800-124d1eab42ba"
+        },
+        "categories": {
+            "auth": {
+                "vueamplify102f1a9f": {}
+            }
         }
     }
 }
