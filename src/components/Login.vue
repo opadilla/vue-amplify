@@ -11,7 +11,7 @@ import Amplify, { Auth } from 'aws-amplify';
 import { AmplifyEventBus } from 'aws-amplify-vue';
 
 export default {
-  name: 'HelloWorld',
+  name: 'Login',
   props: {
     msg: String,
     signedIn: false
